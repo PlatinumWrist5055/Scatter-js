@@ -15,15 +15,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "eosjs": "^16.0.2",
+    "eosjs": "^22.1.0",
     "es6-promise": "^4.2.4",
     "ethereumjs-abi": "^0.6.5",
     "ethereumjs-util": "^5.2.0",
     "get-random-values": "^1.2.0",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "node-rsa": "^1.0.1",
     "socket.io-client": "^2.1.1",
-    "web3-provider-engine": "^14.0.6"
+    "web3-provider-engine": "^17.0.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
